@@ -1,0 +1,172 @@
+@import url("https://fonts.googleapis.com/css2?family=VT323&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Audiowide&family=VT323&display=swap");
+main {
+  background-color: white;
+}
+li,
+a,
+button {
+  font-family: "Roboto", sans-serif;
+  font-weight: 540;
+  font-size: 20px;
+  color: black;
+  text-decoration: none;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 7%;
+  background-color: gray;
+  background-image: url("https://media.tenor.com/images/7c0727a0ec77f5e4829ceaa36824423e/tenor.gif");
+}
+
+.logo {
+  cursor: pointer;
+  width: 40px;
+}
+.nav__links {
+  list-style: none;
+  background-color: purple;
+}
+.nav__links li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+.nav__links li a {
+  transition: all 0.3s ease 0s;
+}
+.nav__links li a:hover {
+  color: green;
+}
+button {
+  padding: 9px 25px;
+  background-color: purple;
+  color: black;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+}
+button:hover {
+  background-color: green;
+}
+
+h1 {
+  color: purple;
+  text-align: center;
+  font-size: 60px;
+  font-family: "VT323", monospace;
+}
+h2 {
+  color: green;
+  font-family: "Audiowide", cursive;
+  font-size: 30px;
+  padding: 1%;
+}
+p {
+  color: #fff;
+  font-size: 18px;
+  justify-content: center;
+  text-align: center;
+  padding: 1%;
+  background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20190726/pngtree-purple-starry-sky-and-black-trees-silhouette-image_121544.jpg);
+}
+body {
+  background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20190223/ourmid/pngtree-purple-nebula-banner-background-debrispurplenebulastarry-sky-image_83244.jpg);
+}
+nav {
+  background-color: purple;
+}
+main {
+  background-image: url(https://media1.tenor.com/images/c33846280717b9bcf240233b12cf822f/tenor.gif?itemid=19457480);
+}
+.Y,
+#V,
+h2 {
+  text-align: center;
+  text-decoration-line: overline;
+}
+footer {
+  margin-top: 30px;
+  background-color: black;
+  padding: 20px;
+  display: flex;
+  justify-content: flex-end;
+  font-size: 0.9em;
+  color: purple;
+  background-image: url("https://i.postimg.cc/9fS2F74j/l.png");
+}
+footer > a,
+span {
+  background-color: purple;
+  color: black;
+  font-size: 20px;
+  padding: 3px;
+}
+.S {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 17px 36%;
+}
+.K {
+  position: relative;
+  left: 30px;
+  top: -811px;
+}
+.C {
+  position: relative;
+  left: -372px;
+  top: -530px;
+}
+.X {
+  position: relative;
+  left: -779px;
+  top: -247px;
+}
+.M {
+  position: relative;
+  right: -1040px;
+  top: -1046px;
+}
+.L {
+  position: relative;
+  right: -640px;
+  top: -766px;
+}
+.I {
+  position: relative;
+  right: -235px;
+  top: -482px;
+}
+
+#M {
+  position: relative;
+  top: -480px;
+}
+h2 > a {
+  color: green;
+}
+div {
+  position: relative;
+  top: -480px;
+}
+audio {
+  position: relative;
+  top: -20px;
+  right: -600px;
+}
+#songs {
+  position: relative;
+  top: -20px;
+  right: -540px;
+  font-size: 25px;
+  background-color: purple;
+}
+#enjoy {
+  position: relative;
+  top: 100px;
+  right: -60px;
+  width: 1400px;
+}
